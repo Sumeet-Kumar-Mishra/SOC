@@ -4,7 +4,7 @@ This is the repo containing the work done by me personally in SOC 2020. I have a
 
 ## Links:
 - ### Dogs vs Cats on Kaggle
-https://www.kaggle.com/c/dogs-vs-cats
+      https://www.kaggle.com/c/dogs-vs-cats
 
 - ### Link to SOC project repo(MLGYM)
-https://github.com/codeLAlit/MLGYM
+      https://github.com/codeLAlit/MLGYM
